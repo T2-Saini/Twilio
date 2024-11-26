@@ -1,0 +1,14 @@
+{
+  "name": "webtech-contact-form",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^4.11.0",
+    "dotenv": "^16.0.3",
+    "cors": "^2.8.5"
+  }
+}
